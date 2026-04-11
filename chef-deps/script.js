@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let c=cookbook.value.split('\n').length;res.innerText=`Dependencies: ${c}`;}

@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let t=playbook.value.split('\n').length;res.innerText=`Tasks: ${t}`;}

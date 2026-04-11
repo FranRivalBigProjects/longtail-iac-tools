@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let i=iac.value.split('\n').length;res.innerText=`Resources: ${i}`;}

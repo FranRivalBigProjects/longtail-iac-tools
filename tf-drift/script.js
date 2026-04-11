@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let d=(state.value.match(/drift|change/gi)||[]).length;res.innerText=`Drift signals: ${d}`;}
